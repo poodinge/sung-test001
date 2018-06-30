@@ -1,0 +1,15 @@
+# 나만의 라이브러리(모듈) npm으로 배포하기
+# 1. github 가입및 프로젝트 생성
+# 2. npmjs.org 가입 및 인증
+# 3. 프로젝트 폴더 생성
+# 4. npm init
+#    > name:npm에서 고유하게
+#    > git:기트허브 프로젝트 주소
+# 5. 모듈 제작
+# 6. 기트 허브에 업로드
+# 7. npm adduser 
+#    작성자정보부터 등등 입력
+# 8. npm publish
+#    npmjs에 업로드됨
+# 9. 테스트
+#    제 3의 프로젝트 생성 하고 > npm install --save name > 사용

@@ -1,0 +1,22 @@
+{
+  "name": "mymod",
+  "version": "1.0.0",
+  "description": "nodejs free module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poodinge/sung-test001.git"
+  },
+  "keywords": [
+    "sung-test001"
+  ],
+  "author": "sung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poodinge/sung-test001/issues"
+  },
+  "homepage": "https://github.com/poodinge/sung-test001#readme"
+}
